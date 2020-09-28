@@ -1,0 +1,2 @@
+import { requestPost } from './request'
+
